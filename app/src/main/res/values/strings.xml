@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mogapi_TI_219078558_CSC2B10_2020_P07</string>
+    <string name="image_id">Image ID:</string>
+    <string name="download">Download</string>
+    <string name="show_image_list">Show Image List</string>
+    <string name="image_downloaded_by_user">Image downloaded by user</string>
+</resources>
